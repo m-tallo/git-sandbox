@@ -1,3 +1,3 @@
 # git Sandbox
 
-This is a cool repo!
+This is a super cool repo!
