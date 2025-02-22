@@ -1,3 +1,8 @@
 # git Sandbox
 
-This is a super cool repo!
+Add your name as a contributor to this repo below:
+
+- Lindsay Poirier
+- Add name here...
+- Add name here...
+- Add name here...
